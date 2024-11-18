@@ -1,0 +1,35 @@
+title:
+  type: str
+  required: True
+
+url:
+  type: str
+  required: True
+
+desc:
+  type: str
+  required: True
+
+owner:
+  type: str
+  required: True
+
+contact:
+  type: map
+  required: True
+  schema:
+    email:
+      type: str
+      required: False
+    discord:
+      type: str
+      required: False
+    telegram:
+      type: str
+      required: False
+
+category:
+  type: list
+  required: True
+  schema:
+    type: str

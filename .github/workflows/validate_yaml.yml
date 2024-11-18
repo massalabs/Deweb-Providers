@@ -1,0 +1,24 @@
+name: Validate providers YAMLs
+
+on:
+  pull_request:
+    paths:
+      - 'entries/**/*.yaml'
+
+jobs:
+  validate_yaml:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install Yamale
+        run: |
+          pip install yamale
+
+      - name: Validate YAML against schema
+        run: |
+          for file in entries/*.yaml; do
+            yamale -s schema.yaml "$file" || exit 1
+          done
