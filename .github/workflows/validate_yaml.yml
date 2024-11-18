@@ -3,7 +3,7 @@ name: Validate providers YAMLs
 on:
   pull_request:
     paths:
-      - 'entries/**/*.yaml'
+      - 'providers/**/*.yaml'
 
 jobs:
   validate_yaml:
@@ -19,6 +19,6 @@ jobs:
 
       - name: Validate YAML against schema
         run: |
-          for file in entries/*.yaml; do
+          for file in providers/*.yaml; do
             yamale -s schema.yaml "$file" || exit 1
           done
