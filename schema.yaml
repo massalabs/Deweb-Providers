@@ -1,29 +1,9 @@
-title:
-  type: str
-  required: True
-
-url:
-  type: str
-  required: True
-
-desc:
-  type: str
-  required: True
-
-owner:
-  type: str
-  required: True
-
+title: str(required=True)
+url: str(required=True, regex='^https?://[\\w.-]+(?:\\.[\\w\\.-]+)+[/\\w\\.-]*$')
+desc: str(required=True)
+owner: str(required=True)
+contact: map(required=True)
 contact:
-  type: map
-  required: True
-  schema:
-    email:
-      type: str
-      required: False
-    discord:
-      type: str
-      required: False
-    telegram:
-      type: str
-      required: False
+  email: str(required=False, regex='^[\\w\\.-]+@[\\w\\.-]+\\.[a-zA-Z]{2,}$')
+  discord: str(required=False, regex='^@\\w{2,32}#\\d{4}$')
+  telegram: str(required=False, regex='^@\\w{5,32}$')
