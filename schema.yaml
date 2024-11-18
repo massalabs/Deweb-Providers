@@ -27,9 +27,3 @@ contact:
     telegram:
       type: str
       required: False
-
-category:
-  type: list
-  required: True
-  schema:
-    type: str
