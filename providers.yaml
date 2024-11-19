@@ -1,0 +1,6 @@
+- title: Massa Labs Official Provider
+  url: https://massa.network/
+  desc: The Official DeWeb Provider hosted by Massa Labs. Only allows access to officials Massa websites and some partner websites.
+  owner: Massa Labs
+  contact:
+    email: contact@massa.net
