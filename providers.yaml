@@ -1,6 +1,19 @@
+- title: MassaHub Provider
+  url: https://massahub.network
+  desc: First fully decentralized Provider on Massa DeWeb.
+  owner: MassaHub
+  contact:
+    email: gicu.adasanu098@gmail.com, retus.auto@gmail.com
+    telegram: https://t.me/MassaHub
 - title: Massa Labs Official Provider
   url: https://massa.network/
   desc: The Official DeWeb Provider hosted by Massa Labs. Only allows access to officials Massa websites and some partner websites.
   owner: Massa Labs
   contact:
     email: contact@massa.net
+- title: Acheta bot MASSA DeWEB Provider
+  url: https://massa-deweb.xyz/
+  desc: Acheta team MASSA DeWEB provider
+  owner: Acheta Team
+  contact:
+    telegram: https://t.me/xk003
