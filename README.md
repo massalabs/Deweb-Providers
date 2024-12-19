@@ -21,6 +21,7 @@ Here is an example of a provider file:
 title: Example Provider
 url: https://example.com
 desc: An example provider for the Massa DeWeb project.
+network: mainnet
 owner: Example Company
 contact:
   email: contact@example.com
