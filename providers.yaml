@@ -1,3 +1,17 @@
+- title: Acheta bot MASSA DeWEB Provider (Buildnet)
+  url: https://dev.massa-deweb.xyz/
+  desc: Acheta team MASSA DeWEB provider
+  owner: Acheta Team
+  network: buildnet
+  contact:
+    telegram: https://t.me/xk003
+- title: Acheta bot MASSA DeWEB Provider (Mainnet)
+  url: https://massa-deweb.xyz/
+  desc: Acheta team MASSA DeWEB provider
+  owner: Acheta Team
+  network: mainnet
+  contact:
+    telegram: https://t.me/xk003
 - title: MassaHub Provider
   url: https://massahub.network
   desc: First fully decentralized Provider on Massa DeWeb.
@@ -13,10 +27,3 @@
   owner: Massa Labs
   contact:
     email: contact@massa.net
-- title: Acheta bot MASSA DeWEB Provider
-  url: https://massa-deweb.xyz/
-  desc: Acheta team MASSA DeWEB provider
-  network: mainnet
-  owner: Acheta Team
-  contact:
-    telegram: https://t.me/xk003
