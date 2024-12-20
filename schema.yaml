@@ -2,6 +2,7 @@ title: str(required=True)
 url: str(required=True, regex='^https?://[\\w.-]+(?:\\.[\\w\\.-]+)+[/\\w\\.-]*$')
 desc: str(required=True)
 owner: str(required=True)
+network: enum('mainnet', 'buildnet', required=True)
 contact: map(required=True)
 contact:
   email: str(required=False, regex='^[\\w\\.-]+@[\\w\\.-]+\\.[a-zA-Z]{2,}$')
