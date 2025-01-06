@@ -12,6 +12,15 @@
   network: mainnet
   contact:
     telegram: https://t.me/xk003
+- title: half-red Provider
+  url: https://deweb.half-red.net
+  desc: Half-Red portal to the Massa DeWeb.
+  owner: Thybault Alabarbe
+  network: mainnet
+  contact:
+    email: half-red@half-red.net
+    discord: curiosithy
+    telegram: curiosi_thy
 - title: MassaHub Provider
   url: https://massahub.network
   desc: First fully decentralized Provider on Massa DeWeb.
