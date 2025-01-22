@@ -38,7 +38,7 @@
   contact:
     email: gicu.adasanu098@gmail.com, retus.auto@gmail.com
     telegram: https://t.me/MassaHub
-- title: Massa Labs Official Provider
+- title: Massa Labs internal Provider
   url: https://massa.network/
   desc: The Official DeWeb Provider hosted by Massa Labs. Only allows access to officials Massa websites and some partner websites.
   network: mainnet
