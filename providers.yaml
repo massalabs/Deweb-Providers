@@ -12,6 +12,15 @@
   network: mainnet
   contact:
     telegram: https://t.me/xk003
+- title: Deweb.Fi Provider
+  url: https://deweb.fi/
+  desc: Massa DeWeb Provider with a cool entry point for your next decentralized website. Only allows access to partner websites. Contact us for more information.
+  network: mainnet
+  owner: Calin Szekely
+  contact:
+    email: hello@deweb.fi, calin@deweb.fi
+    telegram: https://t.me/deweb_fi
+    discord: https://discord.gg/SznDqGyT8K
 - title: half-red Provider
   url: https://deweb.half-red.net
   desc: Half-Red portal to the Massa DeWeb.
