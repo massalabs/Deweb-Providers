@@ -45,3 +45,11 @@
   owner: Massa Labs
   contact:
     email: contact@massa.net
+- title: NodeMaster Provider
+  url: https://node-master.fr/
+  desc: NodeMaster's gateway to the web of the future
+  network: mainnet
+  owner: NodeMaster
+  contact:
+    email: pro.node.master@gmail.com
+    discord: itrider
