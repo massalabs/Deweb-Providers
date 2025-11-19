@@ -7,18 +7,18 @@
     email: hello@deweb.fi, calin@deweb.fi
     telegram: https://t.me/deweb_fi
     discord: https://discord.gg/SznDqGyT8K
-- title: half-red Provider
+- title: half-red Provider (Buildnet)
   url: https://build.half-red.net
-  desc: Half-Red portal to the Massa DeWeb.
+  desc: Half-Red portal to the Massa DeWeb (Buildnet).
   owner: Thybault Alabarbe
-  network: mainnet
+  network: buildnet
   contact:
     email: half-red@half-red.net
     discord: curiosithy
     telegram: https://t.me/curiosi_thy
-- title: half-red Provider
+- title: half-red Provider (Mainnet)
   url: https://deweb.half-red.net
-  desc: Half-Red portal to the Massa DeWeb.
+  desc: Half-Red portal to the Massa DeWeb (Mainnet).
   owner: Thybault Alabarbe
   network: mainnet
   contact:
