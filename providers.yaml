@@ -1,17 +1,3 @@
-- title: Acheta bot MASSA DeWEB Provider (Buildnet)
-  url: https://dev.massa-deweb.xyz/
-  desc: Acheta team MASSA DeWEB provider
-  owner: Acheta Team
-  network: buildnet
-  contact:
-    telegram: https://t.me/xk003
-- title: Acheta bot MASSA DeWEB Provider (Mainnet)
-  url: https://massa-deweb.xyz/
-  desc: Acheta team MASSA DeWEB provider
-  owner: Acheta Team
-  network: mainnet
-  contact:
-    telegram: https://t.me/xk003
 - title: Deweb.Fi Provider
   url: https://deweb.fi/
   desc: Massa DeWeb Provider with a cool entry point for your next decentralized website. Only allows access to partner websites. Contact us for more information.
@@ -22,6 +8,15 @@
     telegram: https://t.me/deweb_fi
     discord: https://discord.gg/SznDqGyT8K
 - title: half-red Provider
+  url: https://build.half-red.net
+  desc: Half-Red portal to the Massa DeWeb.
+  owner: Thybault Alabarbe
+  network: mainnet
+  contact:
+    email: half-red@half-red.net
+    discord: curiosithy
+    telegram: https://t.me/curiosi_thy
+- title: half-red Provider
   url: https://deweb.half-red.net
   desc: Half-Red portal to the Massa DeWeb.
   owner: Thybault Alabarbe
@@ -29,7 +24,7 @@
   contact:
     email: half-red@half-red.net
     discord: curiosithy
-    telegram: curiosi_thy
+    telegram: https://t.me/curiosi_thy
 - title: MassaHub Provider
   url: https://massahub.network
   desc: First fully decentralized Provider on Massa DeWeb.
