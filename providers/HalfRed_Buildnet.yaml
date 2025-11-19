@@ -1,8 +1,8 @@
-title: half-red Provider
+title: half-red Provider (Buildnet)
 url: https://build.half-red.net
-desc: Half-Red portal to the Massa DeWeb.
+desc: Half-Red portal to the Massa DeWeb (Buildnet).
 owner: Thybault Alabarbe
-network: mainnet
+network: buildnet
 contact:
   email: half-red@half-red.net
   discord: curiosithy
