@@ -40,6 +40,13 @@
   owner: Massa Labs
   contact:
     email: contact@massa.net
+- title: Nafsilabs Provider
+  url: https://massa.host
+  desc: Decentralised web provider by Nafsilabs.
+  network: mainnet
+  owner: Nafslabs
+  contact:
+    discord: jwmdev
 - title: NodeMaster Provider
   url: https://deweb.node-master.fr/
   desc: NodeMaster's gateway to the web of the future
